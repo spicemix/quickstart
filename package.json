@@ -39,7 +39,13 @@
     "zone.js": "^0.6.23",
 
     "angular2-in-memory-web-api": "0.0.20",
-    "bootstrap": "^3.3.6"
+    "bootstrap": "^3.3.6",
+
+    "@types/core-js": "^0.9.32",
+    "@types/jasmine": "^2.2.33",
+    "@types/node": "^6.0.38",
+    "@types/protractor": "^1.5.18",
+    "@types/selenium-webdriver": "^2.44.28"
   },
   "devDependencies": {
     "concurrently": "^2.2.0",
